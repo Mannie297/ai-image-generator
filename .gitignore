@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Generated images
+generated_images/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/ 
