@@ -2,7 +2,7 @@
 
 A professional web application built with Streamlit that generates high-quality images using Stable Diffusion based on text prompts. This application provides an intuitive interface for creating AI-generated artwork with advanced customization options.
 
-![AI Image Generator Demo](https://via.placeholder.com/800x400?text=AI+Image+Generator+Demo)
+![AI Image Generator Demo](docs/demo.png)
 
 ## ✨ Features
 
@@ -17,6 +17,16 @@ A professional web application built with Streamlit that generates high-quality 
   - Style presets (Photographic, Digital Art, Oil Painting, etc.)
 - 📝 Built-in prompt writing tips and guidance
 - 🎨 User-friendly web interface with real-time preview
+
+## 🖼️ Example Gallery
+
+Check out some example images generated with different styles and settings:
+
+| Style | Example | Prompt |
+|-------|---------|--------|
+| Photographic | ![Photographic Example](docs/examples/photographic.jpg) | "A serene mountain landscape at sunset, professional photography, 8k uhd, dslr" |
+| Digital Art | ![Digital Art Example](docs/examples/digital_art.jpg) | "A futuristic cityscape, digital art, concept art, trending on artstation" |
+| Oil Painting | ![Oil Painting Example](docs/examples/oil_painting.jpg) | "A still life with flowers, oil painting, masterpiece, detailed brushwork" |
 
 ## 🛠️ Technical Stack
 
@@ -72,6 +82,15 @@ streamlit run app.py
    - Adjust advanced settings
    - Select image size and style
    - Generate and download images
+
+## 📚 Documentation
+
+For more detailed information about the application's features and settings, check out our documentation:
+
+- [Advanced Features Guide](docs/advanced_features.md) - Detailed explanation of all features and settings
+- [Prompt Engineering Tips](docs/advanced_features.md#prompt-engineering) - How to write effective prompts
+- [Performance Optimization](docs/advanced_features.md#performance-optimization) - Tips for better performance
+- [Troubleshooting Guide](docs/advanced_features.md#troubleshooting) - Solutions to common issues
 
 ## 🎨 Tips for Better Results
 
