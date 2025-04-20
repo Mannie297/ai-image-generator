@@ -2,7 +2,7 @@
 
 A professional web application built with Streamlit that generates high-quality images using Stable Diffusion based on text prompts. This application provides an intuitive interface for creating AI-generated artwork with advanced customization options.
 
-![AI Image Generator Demo](docs/demo.png)
+![AI Image Generator Demo](https://raw.githubusercontent.com/Mannie297/ai-image-generator/main/docs/examples/demo.png.png)
 
 ## ✨ Features
 
@@ -24,9 +24,9 @@ Check out some example images generated with different styles and settings:
 
 | Style | Example | Prompt |
 |-------|---------|--------|
-| Photographic | ![Photographic Example](docs/examples/photographic.jpg) | "A serene mountain landscape at sunset, professional photography, 8k uhd, dslr" |
-| Digital Art | ![Digital Art Example](docs/examples/digital_art.jpg) | "A futuristic cityscape, digital art, concept art, trending on artstation" |
-| Oil Painting | ![Oil Painting Example](docs/examples/oil_painting.jpg) | "A still life with flowers, oil painting, masterpiece, detailed brushwork" |
+| Photographic | ![Photographic Example](https://raw.githubusercontent.com/Mannie297/ai-image-generator/main/docs/examples/photographic.jpg.png) | "A serene mountain landscape at sunset, professional photography, 8k uhd, dslr" |
+| Digital Art | ![Digital Art Example](https://raw.githubusercontent.com/Mannie297/ai-image-generator/main/docs/examples/digital_art.jpg.png) | "A futuristic cityscape, digital art, concept art, trending on artstation" |
+| Oil Painting | ![Oil Painting Example](https://raw.githubusercontent.com/Mannie297/ai-image-generator/main/docs/examples/oil_painting.jpg.png) | "A still life with flowers, oil painting, masterpiece, detailed brushwork" |
 
 ## 🛠️ Technical Stack
 
