@@ -37,7 +37,7 @@ A professional web application built with Streamlit that generates high-quality 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-image-generator.git
+git clone https://github.com/Mannie297/ai-image-generator.git
 cd ai-image-generator
 ```
 
@@ -124,6 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Mannie297 - [GitHub Profile](https://github.com/Mannie297)
 
-Project Link: [https://github.com/yourusername/ai-image-generator](https://github.com/yourusername/ai-image-generator) 
+Project Link: [https://github.com/Mannie297/ai-image-generator](https://github.com/Mannie297/ai-image-generator) 
